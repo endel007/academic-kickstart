@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Enrique J. De La Hoz D.
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Universidad Tecnológica de Bolívar
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD (C) in Networks and Information Technologies
+    institution: Universitat Oberta de Catalunya
+    year: 2020*
+  - course: M.Sc Statistics and Operations Research
+    institution: Universitat Politècnica de Catalunya
+    year: 2017
+  - course: BSc in Industrial Engineering
+    institution: Universidad Libre 
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
