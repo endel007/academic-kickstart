@@ -41,12 +41,4 @@ date_format = "Jan 2006"
   date_end = "2017-02-28"
   description = """Developing an Allocation vehicles system."""
 
-[[experience]]
-  title = "Professor"
-  company = "Universidad Libre"
-  company_url = "http://www.unilibrebaq.edu.co/"
-  location = "Barranquilla -  Colombia"
-  date_start = "2013-08-01"
-  date_end = "2015-12-31"
-  description = """Professor at Engineering Faculty"""
 +++
