@@ -1,3 +1,5 @@
++++
+
 title: "Aplicación de Minería de Datos para la Clasificación de Programas Universitarios de Ingeniería Industrial
 Acreditados en Alta Calidad en Colombia"
 date: "2018"
@@ -12,3 +14,4 @@ Colombia, are used as units of study. The results show that factors such as inte
 the faculties of engineering and University profile, influence the grouping of the programs of study. The
 research allowed to classify three large main components and profiles of accredited programs."
 
++++
