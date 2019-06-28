@@ -1,10 +1,10 @@
 +++
-title = "A Person Re-Identification System For Mobile Devices"
-date = 2015-09-01T00:00:00
+title = "Metodología de Aprendizaje Automático para la Clasificación y Predicción de Usuarios en Ambientes Virtuales de Educación"
+date = 2019-02-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen"]
+authors = ["Enrique Delahoz", "Efraín De La Hoz", "Tomás Fontalvo"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["GA Cushen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Signal Image Technology & Internet Systems (SITIS)*, IEEE."
-publication_short = "In *SITIS*"
+publication = "In *Información Tecnológica*, IEEE."
+publication_short = "In *Inf. Tec*"
 
 # Abstract and optional shortened version.
-abstract = "Person re-identification is a critical security task for recognizing a person across spatially disjoint sensors. Previous work can be computationally intensive and is mainly based on low-level cues extracted from RGB data and implemented on a PC for a fixed sensor network (such as traditional CCTV). We present a practical and efficient framework for mobile devices (such as smart phones and robots) where high-level semantic soft biometrics are extracted from RGB and depth data. By combining these cues, our approach attempts to provide robustness to noise, illumination, and minor variations in clothing. This mobile approach may be particularly useful for the identification of persons in areas ill-served by fixed sensors or for tasks where the sensor position and direction need to dynamically adapt to a target. Results on the BIWI dataset are preliminary but encouraging. Further evaluation and demonstration of the system will be available on our website."
+abstract = "A methodology to classify and predict users in virtual education environments, studying the interaction of students with the platform and their performance in exams is proposed. For this, the machine learning tools, main components, clustering, fuzzy and the algorithm of the K nearest neighbor were used. The methodology first relates the users according to the study variables, to then implement a cluster analysis that identifies the formation of groups. Finally uses a machine learning algorithm to classify the users according to their level of knowledge. The results show how the time a student stays in the platform is not related to belonging to the high knowledge group. Three categories of users were identified, applying the Fuzzy K-means methodology to determine transition zones between levels of knowledge. The k nearest neighbor algorithm presents the best prediction results with 91%"
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -49,7 +49,7 @@ slides = "example-slides"
 tags = []
 
 # Links (optional).
-url_pdf = "http://arxiv.org/pdf/1512.04133v1"
+url_pdf = "https://scielo.conicyt.cl/scielo.php?pid=S0718-07642019000100247&script=sci_arttext"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
