@@ -31,6 +31,19 @@ date_format = "Jan 2006"
   * Researching
   * Consulting
   """
-
+[[experience]]
+  title = "Research Intern"
+  company = "Universidad Libre"
+  company_url = ""
+  location = "Seat - Barcelona"
+  date_start = "2017-08-08"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Teaching
+  * Researching
+  * Consulting
+  """
 
 +++
