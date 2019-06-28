@@ -3,7 +3,7 @@
 
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`, `strawberry`.
-color_theme = "Ocean"
+color_theme = "default"
 # Enable users to switch between day and night mode?
 day_night = true
 
@@ -88,7 +88,7 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 0
 map_api_key = ""
-latitude = "10.370264,-75.4654302"
+latitude = "10.370264"
 longitude = "-75.4654302"
 zoom = 15
 
