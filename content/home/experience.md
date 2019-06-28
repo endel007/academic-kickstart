@@ -36,14 +36,8 @@ date_format = "Jan 2006"
   company = "Universidad Libre"
   company_url = ""
   location = "Seat - Barcelona"
-  date_start = "2017-08-08"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Teaching
-  * Researching
-  * Consulting
-  """
+  date_start = "2016-09-13"
+  date_end = "2017-02-28"
+  description = """ Design"""
 
 +++
