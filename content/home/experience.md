@@ -32,12 +32,5 @@ date_format = "Jan 2006"
   * Consulting
   """
 
-[[experience]]
-  title = "Research Intern"
-  company = "Seat S.A"
-  company_url = ""
-  location = "Barcelona - Spain"
-  date_start = "2016-13-09"
-  date_end = "2017-02-28"
-  description = """Design vehicle storage allocations."""
+
 +++
