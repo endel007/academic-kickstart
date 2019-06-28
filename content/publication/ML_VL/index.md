@@ -1,6 +1,4 @@
-+++
-
-title: "Aplicación de Minería de Datos para la Clasificación de Programas Universitarios de Ingeniería Industrial
++++title: "Aplicación de Minería de Datos para la Clasificación de Programas Universitarios de Ingeniería Industrial
 Acreditados en Alta Calidad en Colombia"
 date: "2018"
 publication_types: "2"
