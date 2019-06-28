@@ -33,11 +33,19 @@ date_format = "Jan 2006"
   """
 [[experience]]
   title = "Research Intern"
-  company = "Universidad Libre"
+  company = "Seat SA"
   company_url = ""
   location = "Seat - Barcelona"
   date_start = "2016-09-13"
   date_end = "2017-02-28"
   description = """ Design vehicle storage allocations"""
 
+[[experience]]
+  title = "Professor"
+  company = "Universidad Libre"
+  company_url = ""
+  location = "Barranquilla - Colombia"
+  date_start = "2013-08-01"
+  date_end = "2015-12-31"
+  description = """ Engineering Faculty professor"""
 +++
