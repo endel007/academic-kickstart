@@ -33,11 +33,11 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Intern"
+  company = "Seat S.A"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Barcelona - Spain"
+  date_start = "2016-13-09"
+  date_end = "2017-02-28"
+  description = """Design vehicle storage allocations."""
 +++
