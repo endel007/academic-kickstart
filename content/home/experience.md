@@ -38,6 +38,6 @@ date_format = "Jan 2006"
   location = "Seat - Barcelona"
   date_start = "2016-09-13"
   date_end = "2017-02-28"
-  description = """ Design"""
+  description = """ Design vehicle storage allocations"""
 
 +++
