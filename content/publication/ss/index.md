@@ -1,5 +1,5 @@
 +++
-title = "Metodología de Aprendizaje Automático para la Clasificación y Predicción de Usuarios en Ambientes Virtuales de Educación"
+title = "Método Análisis Envolvente de Datos y Redes Neuronales en la Evaluación y Predicción de la Eficiencia Técnica de Pequeñas Empresas Exportadoras"
 date = 2019-02-01T00:00:00
 draft = false
 
