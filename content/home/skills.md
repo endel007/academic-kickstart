@@ -40,7 +40,7 @@ subtitle = ""
   
 [[feature]]
   icon = "python"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Python"
   description = "Advanced level to develop machine learning implementations"
   
