@@ -22,7 +22,7 @@ publication = "In *Información Tecnológica*, IEEE."
 publication_short = "In *Inf. Tec*"
 
 # Abstract and optional shortened version.
-abstract = "A methodology to classify and predict users in virtual education environments, studying the interaction of students with the platform and their performance in exams is proposed. For this, the machine learning tools, main components, clustering, fuzzy and the algorithm of the K nearest neighbor were used. The methodology first relates the users according to the study variables, to then implement a cluster analysis that identifies the formation of groups. Finally uses a machine learning algorithm to classify the users according to their level of knowledge. The results show how the time a student stays in the platform is not related to belonging to the high knowledge group. Three categories of users were identified, applying the Fuzzy K-means methodology to determine transition zones between levels of knowledge. The k nearest neighbor algorithm presents the best prediction results with 91%"
+abstract = "In this research, a method was developed to evaluate and predict the efficiency of small exporting companies taking as input or asset variables the total assets, equity, total liabilities, operating expenses, sales costs and as output or result variables. net sales, net income and operating income. For this, the envelopment data analysis was used in the evaluation of the efficiency, the discriminant analysis in the evaluation of the classification of efficient and inefficient companies and the artificial neural networks to evaluate its capacity of classification prediction in 90 companies of the sector of the city ​​of Barranquilla-Colombia. The results allowed to classify the companies according to level of efficiency showing an average technical efficiency of 41.38% of the sector with 11 representative companies of efficiency. The results show the relevance of the proposed methodology to correctly classify and forecast technical efficiency in small exporting companies."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -49,7 +49,7 @@ slides = "example-slides"
 tags = []
 
 # Links (optional).
-url_pdf = "https://scielo.conicyt.cl/scielo.php?pid=S0718-07642019000100247&script=sci_arttext"
+url_pdf = "https://scielo.conicyt.cl/scielo.php?pid=S0718-07642018000600267&script=sci_arttext"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
