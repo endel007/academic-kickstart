@@ -57,6 +57,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/enriquedelahozd/
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Enrique_J_De_La_Hoz
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2531-6389
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
