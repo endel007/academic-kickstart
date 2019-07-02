@@ -37,5 +37,17 @@ subtitle = ""
   icon_pack = "fas"
   name = "Teaching"
   description = "Teaching is my passion, I have more than 7 years of experience teaching Engineering courses"
+  
+[[feature]]
+  icon = "python"
+  icon_pack = "fas"
+  name = "Python"
+  description = "Advanced level to develop machine learning implementations"
+  
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "Languages"
+  description = "Spanish is my native language and I'm also fluent in english and catalan. Pendient to learn french and italian"
 
 +++
