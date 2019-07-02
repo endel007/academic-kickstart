@@ -1,7 +1,6 @@
 +++
-title = "Aplicación de Minería de Datos para la Clasificación de Programas Universitarios de Ingeniería Industrial
-Acreditados en Alta Calidad en Colombia"
-date = 2018-06-01T00:00:00
+title = "Metodología de Aprendizaje Automático para la Clasificación y Predicción de Usuarios en Ambientes Virtuales de Educación"
+date = 2019-02-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -23,14 +22,7 @@ publication = "In *Información Tecnológica*, IEEE."
 publication_short = "In *Inf. Tec*"
 
 # Abstract and optional shortened version.
-abstract = "The present research article proposes a method to classify University engineering programs, 
-placing special attention to relations between the subjects of the curriculum and the 12 areas of knowledge 
-established in the body of competencies published by the Institute of industrial and System Engineers (IIES). 
-Techniques of unsupervised data analysis such as Principal Components Analysis (PCA) and cluster analysis were
-used for the proposed classification. Twenty-one programs, accredited by high quality in Industrial Engineering 
-in Colombia, are used as units of study. The results show that factors such as international accreditation, 
-size of the faculties of engineering and University profile, influence the grouping of the programs of study.
-The research allowed to classify three large main components and profiles of accredited programs."
+abstract = "A methodology to classify and predict users in virtual education environments, studying the interaction of students with the platform and their performance in exams is proposed. For this, the machine learning tools, main components, clustering, fuzzy and the algorithm of the K nearest neighbor were used. The methodology first relates the users according to the study variables, to then implement a cluster analysis that identifies the formation of groups. Finally uses a machine learning algorithm to classify the users according to their level of knowledge. The results show how the time a student stays in the platform is not related to belonging to the high knowledge group. Three categories of users were identified, applying the Fuzzy K-means methodology to determine transition zones between levels of knowledge. The k nearest neighbor algorithm presents the best prediction results with 91%"
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -57,7 +49,7 @@ slides = "example-slides"
 tags = []
 
 # Links (optional).
-url_pdf = "https://scielo.conicyt.cl/scielo.php?pid=S0718-07642018000300089&script=sci_arttext&tlng=e"
+url_pdf = "https://scielo.conicyt.cl/scielo.php?pid=S0718-07642019000100247&script=sci_arttext"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
