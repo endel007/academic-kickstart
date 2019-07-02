@@ -1,0 +1,10 @@
+@article{fontalvo2018aplicacion,
+  title={Aplicaci{\'o}n de Miner{\'\i}a de Datos para la Clasificaci{\'o}n de programas universitarios de Ingenier{\'\i}a Industrial Acreditados en alta calidad en Colombia},
+  author={Fontalvo-Herrera, Tom{\'a}s J and Delahoz, Enrique J and Mendoza-Mendoza, Adel A},
+  journal={Informaci{\'o}n tecnol{\'o}gica},
+  volume={29},
+  number={3},
+  pages={89--96},
+  year={2018},
+  publisher={Centro de Informaci{\'o}n Tecnol{\'o}gica}
+}
