@@ -45,9 +45,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:edelahoz@utb.edu.co".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/endel007
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=7zQLPRQAAAAJ&hl=es
