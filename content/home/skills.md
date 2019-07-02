@@ -22,7 +22,7 @@ subtitle = ""
   
 [[feature]]
   icon = "analytics"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Statistics"
   description = "I've developed business implementations for data based decision making"  
   
