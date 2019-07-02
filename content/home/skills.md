@@ -21,7 +21,7 @@ subtitle = ""
   description = "I teach R in undergraduate and graduate courses. In my opinion, R is the best option for people with no previous computer programming background."
   
 [[feature]]
-  icon = "Analytics"
+  icon = "analytics"
   icon_pack = "fas"
   name = "Statistics"
   description = "I've developed business implementations for data based decision making"  
