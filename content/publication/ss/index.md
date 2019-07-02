@@ -26,7 +26,7 @@ abstract = "In this research, a method was developed to evaluate and predict the
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
