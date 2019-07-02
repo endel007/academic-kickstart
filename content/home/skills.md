@@ -22,7 +22,7 @@ subtitle = ""
   
 [[feature]]
   icon = "chart-line"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Analytics"
   description = "I've developed business implementations for data based decision making"  
   
