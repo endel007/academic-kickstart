@@ -28,7 +28,7 @@ subtitle = ""
   
 [[feature]]
   icon = "search-plus"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Research"
   description = "I have experience publishing in indexed journals (WoS and Scopus)"
   
