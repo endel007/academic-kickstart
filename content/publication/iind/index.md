@@ -34,7 +34,7 @@ The research allowed to classify three large main components and profiles of acc
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
