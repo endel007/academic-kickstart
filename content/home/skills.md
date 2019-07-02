@@ -18,18 +18,24 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "I teach R in undergraduate and graduate courses. In my opinion, R is the best option for people with no previous computer programming background."
   
 [[feature]]
-  icon = "chart-line"
+  icon = "Analytics"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "I've developed business implementations for data based decision making"  
   
 [[feature]]
   icon = "search-plus"
   icon_pack = "fas"
   name = "Research"
-  description = "80%"
+  description = "I have experience publishing in indexed journals (WoS and Scopus)"
+  
+[[feature]]
+  icon = "chalkboard-teacher"
+  icon_pack = "fas"
+  name = "Teaching"
+  description = "Teaching is my passion, I have more than 7 years of experience teaching Engineering courses"
 
 +++
