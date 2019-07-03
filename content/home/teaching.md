@@ -15,15 +15,8 @@ weight = 60
 
 +++
 
-2019-2020 academic year:
+2019-2 academic semester:
 
-- STAT 125: Epidemiology (Fall)
-- STAT 155: Introduction to Statistical Modeling (Spring)
-- STAT 394: Causal Inference (Spring)
+- IIND R14A: Data Science
+- IIND R10A: Quality Control
 
-2018-2019 academic year:
-
-- MATH 155: Introduction to Statistical Modeling (Fall)    
-    - [Class notes](https://bcheggeseth.github.io/Math155Notes/) in collaboration with [Brianna Heggeseth](https://sites.google.com/macalester.edu/bcheggeseth)
-- MATH 253: Machine Learning (Spring)    
-    - [Class website](https://lmyint.github.io/253_spring_2019/)
