@@ -1,10 +1,10 @@
 +++
-title = "Study of financial efficiency in companies certified with the BASC label using Data Envelopment Analysis: Case applied in Cali-Colombia"
-date = 2018-06-01T00:00:00
+title = "Clasificación de perfiles de lectores de un periódico digital"
+date = 2017-12-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Enrique Delahoz", "Tomás Fontalvo"]
+authors = ["Enrique Delahoz", "Adel Mendoza", "Hoolyana Ojeda"]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["Enrique Delahoz", "Tomás Fontalvo"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Entramado*"
-publication_short = "In *Entramado*"
+publication = "In *UDCA*"
+publication_short = "In *UDCA*"
 
 # Abstract and optional shortened version.
-abstract = "The present research is about the analysis financial efficiency of Colombian companies based on the city of Cali certified by the BASC label, for this purpose we used the linear programming technique called Data Envelopment Analysis (DEA), applying the CCR-O routine aimed to outputs. As input variables, it was worked with: Subtotal of inventory Total Current Assets, Plant and Equipment property and Suppliers, and as output variable, Operating Income. The quality of this work is based on the use of primary information collected by the Superintendence of Corporations in 2014. As results we find that average efficiency of 42 companies under study was 33.95%, besides only five companies reached highest efficiency levels."
+abstract = "En este artículo de investigación, se analizó el comportamiento de lectores de un periódico digital, con el objetivo de encontrar los perfiles asociados al uso del sitio Web, con el propósito de definir estrategias de contenidos y nuevos productos del periódico. Se tomó una muestra de 689 usuarios, correspondiente a tres meses de actividad, a través de la herramienta Google Analytics; se determinaron las secciones del diario que se utilizaban en cada visita por los usuarios, para consolidar así la base de datos. En el proceso de análisis, se utilizaron las técnicas multivariadas, análisis de componentes principales y análisis de clúster, por medio, de la cual, se lograron gráficos y visualizaciones, que permiten una mejor interpretación de los resultados y ayudan al proceso de creación de perfiles de usuario. El resultado muestra la identificación de tres perfiles de usuario, para los cuales, se han definido estrategias de contenidos y de nuevos productos."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
@@ -49,7 +49,7 @@ slides = "example-slides"
 tags = []
 
 # Links (optional).
-url_pdf = "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1900-38032018000100078"
+url_pdf = "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0123-42262017000200024"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
