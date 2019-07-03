@@ -1,5 +1,5 @@
 +++
-title = "Metodología de Aprendizaje Automático para la Clasificación y Predicción de Usuarios en Ambientes Virtuales de Educación"
+title = "Métodos multivariantes aplicados a la efectividad de los disolventes en la industria farmacéutica"
 date = 2019-02-01T00:00:00
 draft = false
 
@@ -18,8 +18,8 @@ authors = ["Enrique Delahoz", "Efraín De La Hoz", "Tomás Fontalvo"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Información Tecnológica*, IEEE."
-publication_short = "In *Inf. Tec*"
+publication = "In *Inge CUC*"
+publication_short = "In *Inge CUC*"
 
 # Abstract and optional shortened version.
 abstract = "A methodology to classify and predict users in virtual education environments, studying the interaction of students with the platform and their performance in exams is proposed. For this, the machine learning tools, main components, clustering, fuzzy and the algorithm of the K nearest neighbor were used. The methodology first relates the users according to the study variables, to then implement a cluster analysis that identifies the formation of groups. Finally uses a machine learning algorithm to classify the users according to their level of knowledge. The results show how the time a student stays in the platform is not related to belonging to the high knowledge group. Three categories of users were identified, applying the Fuzzy K-means methodology to determine transition zones between levels of knowledge. The k nearest neighbor algorithm presents the best prediction results with 91%"
@@ -49,7 +49,7 @@ slides = "example-slides"
 tags = []
 
 # Links (optional).
-url_pdf = "https://scielo.conicyt.cl/scielo.php?pid=S0718-07642019000100247&script=sci_arttext"
+url_pdf = "https://revistascientificas.cuc.edu.co/ingecuc/article/view/1743"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
