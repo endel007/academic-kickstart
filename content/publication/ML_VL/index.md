@@ -26,7 +26,7 @@ abstract = "A methodology to classify and predict users in virtual education env
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
