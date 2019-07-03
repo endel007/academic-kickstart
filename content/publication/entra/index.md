@@ -26,7 +26,7 @@ abstract = "The present research is about the analysis financial efficiency of C
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
