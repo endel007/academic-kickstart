@@ -1,10 +1,10 @@
 +++
-title = "Métodos multivariantes aplicados a la efectividad de los disolventes en la industria farmacéutica"
-date = 2019-02-01T00:00:00
+title = "Study of financial efficiency in companies certified with the BASC label using Data Envelopment Analysis: Case applied in Cali-Colombia"
+date = 2018-06-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Enrique Delahoz", "Efraín De La Hoz", "Tomás Fontalvo"]
+authors = ["Enrique Delahoz", "Tomás Fontalvo"]
 
 # Publication type.
 # Legend:
@@ -18,15 +18,15 @@ authors = ["Enrique Delahoz", "Efraín De La Hoz", "Tomás Fontalvo"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Inge CUC*"
-publication_short = "In *Inge CUC*"
+publication = "In *Entramado*"
+publication_short = "In *Entramado*"
 
 # Abstract and optional shortened version.
-abstract = "A methodology to classify and predict users in virtual education environments, studying the interaction of students with the platform and their performance in exams is proposed. For this, the machine learning tools, main components, clustering, fuzzy and the algorithm of the K nearest neighbor were used. The methodology first relates the users according to the study variables, to then implement a cluster analysis that identifies the formation of groups. Finally uses a machine learning algorithm to classify the users according to their level of knowledge. The results show how the time a student stays in the platform is not related to belonging to the high knowledge group. Three categories of users were identified, applying the Fuzzy K-means methodology to determine transition zones between levels of knowledge. The k nearest neighbor algorithm presents the best prediction results with 91%"
+abstract = "The present research is about the analysis financial efficiency of Colombian companies based on the city of Cali certified by the BASC label, for this purpose we used the linear programming technique called Data Envelopment Analysis (DEA), applying the CCR-O routine aimed to outputs. As input variables, it was worked with: Subtotal of inventory Total Current Assets, Plant and Equipment property and Suppliers, and as output variable, Operating Income. The quality of this work is based on the use of primary information collected by the Superintendence of Corporations in 2014. As results we find that average efficiency of 42 companies under study was 33.95%, besides only five companies reached highest efficiency levels."
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -49,7 +49,7 @@ slides = "example-slides"
 tags = []
 
 # Links (optional).
-url_pdf = "https://revistascientificas.cuc.edu.co/ingecuc/article/view/1743"
+url_pdf = "http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S1900-38032018000100078"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
