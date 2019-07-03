@@ -2,6 +2,7 @@
 title = "Metodología de Aprendizaje Automático para la Clasificación y Predicción de Usuarios en Ambientes Virtuales de Educación"
 date = 2019-02-01T00:00:00
 draft = false
+featured = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Enrique Delahoz", "Efraín De La Hoz", "Tomás Fontalvo"]
@@ -27,7 +28,6 @@ abstract_short = ""
 
 # Is this a selected publication? (true/false)
 selected = true
-
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
